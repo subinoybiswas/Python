@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js",
+            "request": "launch",
+            "url": "http://C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js"
+        }
+    ]
+}
